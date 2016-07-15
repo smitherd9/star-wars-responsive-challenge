@@ -1,0 +1,81 @@
+header {
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	padding: 10px;
+	background-color: #f9c503;
+}
+
+header h1 {
+	font-weight: bold;
+	font-family: "Roboto", sans-serif;
+}
+
+header h3 {
+	font-family: "Roboto", sans-serif;
+}
+
+
+
+/* Cards */
+
+
+.card-rey {
+	border: 1px solid #e7e7e7;
+}
+
+.card-rey img {
+	height: 300px;
+	width: 100%;
+}
+
+
+.card-finn {
+	border: 1px solid #e7e7e7;
+}
+
+.card-finn img {
+	height: 300px;
+	width: 100%;
+}
+
+
+.card-kylo {
+	border: 1px solid #e7e7e7;
+}
+
+.card-kylo img {
+	height: 300px;
+	width: 100%;
+}
+
+
+.card-poe {
+	border: 1px solid #e7e7e7;
+}
+
+.card-poe img {
+	height: 300px;
+	width: 100%;
+}
+
+
+.card-chewbacca {
+	border: 1px solid #e7e7e7;
+}
+
+.card-chewbacca img {
+	height: 300px;
+	width: 100%;
+}
+
+
+.card-yoda {
+	border: 1px solid #e7e7e7;
+}
+
+.card-yoda img {
+	height: 300px;
+	width: 100%;
+}
