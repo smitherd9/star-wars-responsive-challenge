@@ -9,7 +9,10 @@
 	max-width: 1000px;
 	padding-left: 20px;
 	padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 	margin: 0 auto;
+
 }
 
 
@@ -25,14 +28,14 @@
 }
 
 
-.col-3, .col-4, .col-6, .col-12 {
+.col-4 {
   float: left;
   padding-left: 1.04166666%;
   padding-right: 1.04166666%;
 }
 
 
-.col-3, .col-4, .col-6, .col-12 {
+.col-4 {
   width: 100%;
 }
 
